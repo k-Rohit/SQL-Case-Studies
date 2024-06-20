@@ -1,7 +1,5 @@
 # Danny's diner
 
-welcome to danny's diner data analysis repository! this project contains sql queries used to analyze customer behavior and sales patterns at danny's diner. below are the insights we gathered using various sql queries.
-
 ## table of contents
 
 1. [total amount spent by each customer](#total-amount-spent-by-each-customer)
