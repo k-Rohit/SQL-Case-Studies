@@ -1,6 +1,6 @@
 # Danny's diner
 
-## table of contents
+## Table of contents
 
 1. [total amount spent by each customer](#total-amount-spent-by-each-customer)
 2. [days each customer visited](#days-each-customer-visited)
